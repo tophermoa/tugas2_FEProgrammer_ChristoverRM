@@ -1,0 +1,23 @@
+CRUD user
+UI: reactjs
+service express, source mongo
+
+Page Dashboard
+
+VIsualisasi Chart: Line, Pie, Table, Bar, Map
+eka septia5:09 PM
+kirim ke : eka.septia@indonesiaindicator.com
+subjek : task 2 - FE Programmer - nama 
+deadline ? 
+roniarta sitinjak5:10 PM
+Management User
+================
+CRUD user
+UI: reactjs
+service express, source mongo
+
+Page Dashboard
+================
+VIsualisasi Chart: Line, Pie, Table, Bar, Map (Indonesia) => bisa dummy atau request API
+
+deadline 13/11/20 > jm 17.30

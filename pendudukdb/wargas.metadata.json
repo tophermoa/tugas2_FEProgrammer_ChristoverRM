@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"pendudukdb.wargas"}],"uuid":"be28640dd80b42bab168b747cb70f0f6"}
